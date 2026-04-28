@@ -1,0 +1,10 @@
+﻿● O que é o padrão Conventional Commits? 
+
+
+Commits é quando fazemos uma alteração e postamos anexando um comentário no Github. 
+Conventional Commits é um padrão de escrita dessas mensagens, facilitando a contribuição de outras pessoas em seus projetos. Temos alguns tipos: 
+Feat: utilizado quando é adicionado uma nova funcionalidade.
+Fix: quando é feita correção de bugs.
+Docs: usado para identificar alterações na documentação relacionadas ao projeto, como por exemplo se adicionou algo no Readme.
+Style: alterações relacionadas ao estilo da base do código(recuos, ponto e vírgula, aspas,etc) 
+Refactor: alterações relacionadas à modificação da base do código, para “limpar o código”(remover código redundante, simplificar o código, renomear variáveis, etc.).
